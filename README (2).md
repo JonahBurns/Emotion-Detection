@@ -1,3 +1,4 @@
+## Emotion Detector
 Emotion Detector :
 The Emotion Detector is an AI that utilizes imagenet to show human emotions from an image. This can be used in places like helping people who can’t show emotion as well express themselves and therapy.
 ![add image descrition here](direct image link here)
@@ -10,9 +11,13 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 This video is a vitual demanstration of the AI working : https://youtu.be/ubG9VC_c8_U
 
+This is a imput image :
+![download2](https://github.com/user-attachments/assets/1828f2a0-7f67-47d2-a515-849b72394321)
 
 
 
+This is a outpt image : 
+![download3](https://github.com/user-attachments/assets/ee2ec830-cff2-4b0e-91c8-1957d73a9726)
 
 
 
